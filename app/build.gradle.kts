@@ -6,11 +6,11 @@ plugins {
 }
 
 android {
-    namespace = "ir.modir.app"
+    namespace = "io.app"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "ir.modir.app"
+        applicationId = "ir.example.app"
         minSdk = 21
         targetSdk = 35
         versionCode = 1

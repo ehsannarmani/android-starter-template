@@ -5,4 +5,5 @@
     <string name="snack_title_warning">هشدار</string>
     <string name="snack_title_success">موفق</string>
     <string name="retry">تلاش مجدد</string>
+    <string name="could_not_connect_to_server">Could not connect to server</string>
 </resources>

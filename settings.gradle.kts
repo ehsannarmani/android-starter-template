@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Modir-App"
+rootProject.name = "Sample-App"
 include(":app")
